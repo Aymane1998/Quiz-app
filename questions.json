@@ -1,0 +1,82 @@
+[
+    {
+        "title":"Why do we use <br> Tag",
+        "answer_1": "To make Text Bold",
+        "answer_2": "To make Text Italic",
+        "answer_3": "To add breakLine",
+        "answer_4": "To make horizontal Line",
+        "right_answer": "To add breakLine"
+    },
+    {
+        "title":"Is the <img> Tag has Attribute href",
+        "answer_1": "Yes",
+        "answer_2": "No it's For Anchor Tag <a>",
+        "answer_3": "All elements have this Attribute",
+        "answer_4": "TAnswer 1 and 3 are right",
+        "right_answer": "No it's For Anchor Tag <a>"
+    },
+    {
+        "title":"how can we make an eelemnt text Bold",
+        "answer_1": "We add the tag <i>",
+        "answer_2": "We add the <b> Tag",
+        "answer_3": "We costomize it with font-weight in CSS",
+        "answer_4": " All answers are right",
+        "right_answer": "We add the <b> Tag"
+    },
+    {
+        "title":"what is the right form to use an unordred list",
+        "answer_1": "<ul>...</ul>",
+        "answer_2": " </ul>",
+        "answer_3": "<unorderList>",
+        "answer_4": " None of the answers",
+        "right_answer": "<ul>...</ul>"
+    },
+    {
+        "title":"how to join css file withe HTML",
+        "answer_1": "<link rel=stylesheet href=file.css>",
+        "answer_2": "<CSS , href=file.css>",
+        "answer_3": "<link rel=css href=file.css>",
+        "answer_4": " file.css",
+        "right_answer": "<link rel=stylesheet href=file.css>"
+    },
+    {
+        "title":"Quel est le doctype d'un document HTML5 ?",
+        "answer_1": "<!DOCTYPE html5>",
+        "answer_2": "<HTML>",
+        "answer_3": "<!DOCTYPE html>",
+        "answer_4": " <!DOCTYPE html PUBLIC-//W3C//DTD HTML5.0 Strict//EN>",
+        "right_answer": "<!DOCTYPE html>"
+    },
+    {
+        "title":"Que signifie CSS ?",
+        "answer_1": "Cascading Style Sheets",
+        "answer_2": "Create Simple Samples",
+        "answer_3": "Choucroute et Saucisses d'Alsace",
+        "answer_4": " Cascading Styling Sheet",
+        "right_answer": "Cascading Style Sheets"
+    },
+    {
+        "title":"A quoi sert le langage CSS ?",
+        "answer_1": " A réaliser des pages dynamiques",
+        "answer_2": "A ajouter du style aux documents web",
+        "answer_3": "A insérer du contenu dans une page internet",
+        "answer_4": " A ajouter des cripts au pages HTML",
+        "right_answer": "A ajouter du style aux documents web"
+    },
+    {
+        "title":"Quel est le rapport entre Java et JavaScript?",
+        "answer_1": " C'est le même langage, mais le nom  JavaScript  est utilisé pour le code s'exécutant dans une page Web.",
+        "answer_2": "Ce sont deux langages différents, malgré quelques points communs dans la syntaxe",
+        "answer_3": "Java est une version améliorée de JavaScript. ",
+        "answer_4": " Java est une île, ça n'a rien à voir !",
+        "right_answer": "Ce sont deux langages différents, malgré quelques points communs dans la syntaxe"
+    },
+    {
+        "title":"Lequel de ces types d'événements n'existe pas",
+        "answer_1": "blur",
+        "answer_2": "load",
+        "answer_3": "mouseclick",
+        "answer_4": " mouseout",
+        "right_answer": "blur"
+    }
+]
